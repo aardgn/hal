@@ -1,0 +1,7 @@
+bleak
+openwakeword
+sounddevice
+numpy
+scipy
+python-dotenv
+elevenlabs
