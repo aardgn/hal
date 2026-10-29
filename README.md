@@ -39,7 +39,7 @@ The goal was to combine these technologies into something practical that I could
 
 ## 🙏 Acknowledgments
 
-The Bluetooth communication implementation was developed with assistance from ChatGPT, using the FitShow/FTMS protocol information documented in [fitshow-treadmill-accessible](https://github.com/aradix85/fitshow-treadmill-accessible).
+The Bluetooth communication implementation was developed using the FitShow/FTMS protocol information documented in [fitshow-treadmill-accessible](https://github.com/aradix85/fitshow-treadmill-accessible).
 
 Hal adds wake-word detection and voice-command processing to enable hands-free treadmill speed control.
 
@@ -48,11 +48,11 @@ Hal adds wake-word detection and voice-command processing to enable hands-free t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hal.git
+git clone https://github.com/aardgn/hal.git
 cd hal
 ```
 
-Replace `YOUR_USERNAME/hal` with your repository's actual URL.
+Replace `aardgn/hal` with your repository's actual URL.
 
 ### 2. Install system dependencies
 
